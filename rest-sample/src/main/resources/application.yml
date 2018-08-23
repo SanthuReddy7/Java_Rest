@@ -1,0 +1,4 @@
+#operations:
+       #  serviceURL: http://18.188.253.202:3000/api/org.orcicare.network.business.CreateOrciMember
+ # This is the rest service end point which needs to be consumed.
+ 
